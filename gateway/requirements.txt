@@ -6,6 +6,24 @@ PyJWT==1.7.1
 aiohttp==3.6.2
 aiodns==2.0.0
 
+#grpc
+bali-core>=3.1.6
+
+#AWS
+chalice>=1.27.0
+
+#gateway
+fastapi-gateway>=0.0.1
+
+#pyms
+py-ms[all]>=2.8.0
+
+#http://minos.run/
+#https://towardsdatascience.com/building-python-microservices-with-apache-kafka-all-gain-no-pain-1435836a3054
+#https://medium.com/@amitripshtos/building-backend-and-microservices-in-python-the-a-sync-stack-ae343ae23225
+#https://mockintosh.io/
+#https://github.com/tiangolo/fastapi/issues/2942
+
 # for test purposes
 flake8==3.8.3
 ipdb==0.13.2
